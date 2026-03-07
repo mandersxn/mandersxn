@@ -1,6 +1,6 @@
 # Hi, I'm Matt! 👋
 
-I’m a student at **Liberty University** currently mastering the fundamentals of **HTML, CSS, and JavaScript** with the help of freeCodeCamp.
+I’m a senior at **Liberty University** currently mastering the fundamentals of **HTML, CSS, and JavaScript** with the help of freeCodeCamp.
 
 My current pinned projects are centered around my university coursework, but I’m preparing to dive into **React, TailwindCSS, Next.js, and Supabase** to build modern, full-stack applications. 
 
