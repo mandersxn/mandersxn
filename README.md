@@ -6,7 +6,7 @@ My current pinned projects are centered around my university coursework, but I�
 
 When I’m not coding or studying, you’ll usually find me at the gym, hanging out with friends, or gaming. I also have a growing passion for **astronomy** and hope to get into **astrophotography** in the near future. Feel free to explore my pinned repositories to see what I’m working on!
 
-Fun Facts:
+**Fun Facts:**
 
 - I'm not a fan of cats
 - I love Mediterranean food
