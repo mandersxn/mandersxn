@@ -2,7 +2,7 @@
 
 I’m a senior at **Liberty University** currently finishing my bachelors degree and mastering the fundamentals of **HTML, CSS, and JavaScript** with the help of freeCodeCamp.
 
-My current pinned projects are centered around my university coursework, but I’m preparing to dive into **React, TailwindCSS, Next.js, and Supabase** to build modern, full-stack applications. 
+My current pinned projects are centered around my university coursework, but I’m preparing to dive into **React, TailwindCSS, Next.js, and Firebase/Supabase** to build modern, full-stack applications. 
 
 When I’m not coding or studying, you’ll usually find me at the gym, hanging out with friends, or gaming. I also have a growing passion for **astronomy** and hope to get into **astrophotography** in the near future. Feel free to explore my pinned repositories to see what I’m working on!
 
