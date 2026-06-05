@@ -1,6 +1,6 @@
 # Hi, I'm Matt! 👋
 
-I’m a senior at **Liberty University** currently finishing my bachelors degree and mastering the fundamentals of **HTML, CSS, and JavaScript** with the help of freeCodeCamp.
+I’m a graduate from **Liberty University** currently mastering **HTML, CSS, and JavaScript** with the help of freeCodeCamp.
 
 My current pinned projects are centered around my university coursework, but I’m preparing to dive into **React, TailwindCSS, Next.js, and Firebase/Supabase** to build modern, full-stack applications. 
 
